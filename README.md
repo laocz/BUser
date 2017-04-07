@@ -1,0 +1,1 @@
+# BUser class example
